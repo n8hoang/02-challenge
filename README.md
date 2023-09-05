@@ -11,7 +11,7 @@ No need to install just use in the browser.
 ## Usage
 
 This website is fairly simple to use. Click on any of the items in the navbar to take you to that particular section of the page. Click on the image or the button below in the portfolio section to go to the deployed application. Fill out the form at the bottom to contact me.
-    ![portfolio demo](Assets/ssportfolio.png)
+    ![portfolio demo](Assets/images/ssportfolio.png)
 
 ## Credits
 
